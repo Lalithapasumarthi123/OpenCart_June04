@@ -3,7 +3,7 @@
   <groupId>OpenCart_June04</groupId>
   <artifactId>OpenCart_June04</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <build>
+ <build>
     <pluginManagement>
       <plugins>
         <plugin>
