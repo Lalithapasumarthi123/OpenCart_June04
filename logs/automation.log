@@ -186,3 +186,38 @@
 21:57:52.919 [main] INFO  testCases.TC_01_RegistrationAccountTest - Password entered successfully
 21:57:54.102 [main] INFO  testCases.TC_01_RegistrationAccountTest - Validating the expected result
 21:57:54.102 [main] INFO  testCases.TC_01_RegistrationAccountTest - Account registration is completed
+15:51:34.400 [main] INFO  testCases.TC_01_RegistrationAccountTest - Registration Account started
+15:51:35.500 [main] INFO  testCases.TC_01_RegistrationAccountTest - Entering the user details
+15:51:35.963 [main] INFO  testCases.TC_01_RegistrationAccountTest - Email entered entered successfully
+15:51:36.125 [main] INFO  testCases.TC_01_RegistrationAccountTest - Telephone number entered successfully
+15:51:36.424 [main] INFO  testCases.TC_01_RegistrationAccountTest - Password entered successfully
+15:51:37.345 [main] INFO  testCases.TC_01_RegistrationAccountTest - Validating the expected result
+15:51:37.348 [main] INFO  testCases.TC_01_RegistrationAccountTest - Account registration is completed
+15:54:11.276 [main] INFO  testCases.TC_01_RegistrationAccountTest - Registration Account started
+15:54:12.263 [main] INFO  testCases.TC_01_RegistrationAccountTest - Entering the user details
+15:54:12.698 [main] INFO  testCases.TC_01_RegistrationAccountTest - Email entered entered successfully
+15:54:12.874 [main] INFO  testCases.TC_01_RegistrationAccountTest - Telephone number entered successfully
+15:54:13.165 [main] INFO  testCases.TC_01_RegistrationAccountTest - Password entered successfully
+15:54:14.057 [main] INFO  testCases.TC_01_RegistrationAccountTest - Validating the expected result
+15:54:14.061 [main] INFO  testCases.TC_01_RegistrationAccountTest - Account registration is completed
+15:55:40.840 [main] INFO  testCases.TC_01_RegistrationAccountTest - Registration Account started
+15:55:42.149 [main] INFO  testCases.TC_01_RegistrationAccountTest - Entering the user details
+15:55:42.638 [main] INFO  testCases.TC_01_RegistrationAccountTest - Email entered entered successfully
+15:55:42.789 [main] INFO  testCases.TC_01_RegistrationAccountTest - Telephone number entered successfully
+15:55:43.111 [main] INFO  testCases.TC_01_RegistrationAccountTest - Password entered successfully
+15:55:43.993 [main] INFO  testCases.TC_01_RegistrationAccountTest - Validating the expected result
+15:55:43.998 [main] INFO  testCases.TC_01_RegistrationAccountTest - Account registration is completed
+15:58:09.574 [main] INFO  testCases.TC_01_RegistrationAccountTest - Registration Account started
+15:58:10.685 [main] INFO  testCases.TC_01_RegistrationAccountTest - Entering the user details
+15:58:11.207 [main] INFO  testCases.TC_01_RegistrationAccountTest - Email entered entered successfully
+15:58:11.376 [main] INFO  testCases.TC_01_RegistrationAccountTest - Telephone number entered successfully
+15:58:11.698 [main] INFO  testCases.TC_01_RegistrationAccountTest - Password entered successfully
+15:58:12.482 [main] INFO  testCases.TC_01_RegistrationAccountTest - Validating the expected result
+15:58:12.487 [main] INFO  testCases.TC_01_RegistrationAccountTest - Account registration is completed
+16:05:29.699 [main] INFO  testCases.TC_01_RegistrationAccountTest - Registration Account started
+16:05:30.557 [main] INFO  testCases.TC_01_RegistrationAccountTest - Entering the user details
+16:05:31.074 [main] INFO  testCases.TC_01_RegistrationAccountTest - Email entered entered successfully
+16:05:31.245 [main] INFO  testCases.TC_01_RegistrationAccountTest - Telephone number entered successfully
+16:05:31.498 [main] INFO  testCases.TC_01_RegistrationAccountTest - Password entered successfully
+16:05:32.421 [main] INFO  testCases.TC_01_RegistrationAccountTest - Validating the expected result
+16:05:32.430 [main] INFO  testCases.TC_01_RegistrationAccountTest - Account registration is completed
