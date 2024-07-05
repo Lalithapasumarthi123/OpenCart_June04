@@ -40,6 +40,8 @@ public class AccountRegistration extends BasePage{
 
 			@FindBy(xpath = "//h1[normalize-space()='Your Account Has Been Created!']")
 			WebElement msgConfirmation;
+			
+			public String user_email="";
 
 			public void setFirstName(String fname) {
 				txtFirstname.sendKeys(fname);
@@ -52,7 +54,12 @@ public class AccountRegistration extends BasePage{
 			}
 
 			public void setEmail(String email) {
+				user_email=email;
 				txtEmail.sendKeys(email);
+
+			}
+			public String getEmail() {
+				return user_email;
 
 			}
 			public void setTelephone(String telephone) {

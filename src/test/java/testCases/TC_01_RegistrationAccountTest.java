@@ -33,6 +33,8 @@ public void account_registration() throws InterruptedException{
 	regpage.setPassword(password);
 	regpage.confirmPassword(password);
 	logger.info("Password entered successfully");
+	System.out.println("Username: "+regpage.getEmail());
+	System.out.println("Password: "+password);
 	JavascriptExecutor js = (JavascriptExecutor) driver;
 	js.executeScript("window.scrollBy(0,500)", "");
 	regpage.setPrivacyPolicy();
@@ -40,6 +42,7 @@ public void account_registration() throws InterruptedException{
 	String confmsg=regpage.getConfirmationMsg();
 	logger.info("Validating the expected result");
 	Assert.assertEquals(confmsg, "Your Account Has Been Created!","Issue while creating the account");
+	
 	}
 	catch(Exception e) {
 		logger.error("Test failed");
